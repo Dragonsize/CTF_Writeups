@@ -1,0 +1,106 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.egg-info/
+*.egg
+venv/
+.venv/
+
+# Binaries & Executables
+*.elf
+*.exe
+*.bin
+*.o
+*.out
+*.dll
+*.dylib
+
+# Core dumps & Memory
+core
+core.*
+*.core
+*.mem
+*.memdump
+
+# Challenge files (keep writeups, ignore challenge binaries)
+**/challenge
+**/attachments
+**/dist
+
+# Logs
+*.log
+logs/
+
+# Temp & OS files
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.project
+.settings/
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.xz
+*.gz
+
+# Docker
+.docker/
+
+# AI Tools
+.claude/
+.codex/
+.cursor/
+.aider*
+copilot*.md
+
+# History
+.history
+.bash_history
+
+# Network captures
+*.pcap
+*.pcapng
+*.cap
+
+# Disk images
+*.img
+*.dd
+*.raw
+
+# Virtual machines
+*.vmdk
+*.vdi
+*.vhd
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
+*.vmx
+
+# Ransomware / Malware samples (if analyzing)
+*.encrypted
+*.malware
+*.virus
+
+# Compiled binaries in writeups (keep source)
+**/exploit
+**/solve
+**/solver
+**/solution
+**/pwn
+**/shellcode.bin

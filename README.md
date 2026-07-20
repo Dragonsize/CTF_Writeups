@@ -4,6 +4,6 @@ Where i keep my writeups
 
 ## Writeups
 
-Each challenge in `writeups/` follows the template.
+Note to self, rmb to copy the template every new CTF.
 
 
