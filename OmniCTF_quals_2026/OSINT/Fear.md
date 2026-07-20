@@ -15,7 +15,7 @@ Hint: A user with the name `Maaasquerade` did unspeakable things in the darkest 
 
 ## Walkthrough
 
-> **Note:** The hint was misleading — "darkest parts" pointed toward a darknet forum, and the most popular one is Dread.
+> **Note:** The hint was misleading — "darkest parts" pointed toward a darknet forum, and the most popular one is Dread which .
 
 1. **Find the forum** — The "darkest parts of the web" refers to ``. The most prominent darknet forum is Dread, accessible via its onion address (e.g. `dreadurlhere` — URL changes frequently).
 2. **Find the hacker** — Navigate to the user profile: `dreadurlhere/u/Maaasquerade`
@@ -26,4 +26,4 @@ Hint: A user with the name `Maaasquerade` did unspeakable things in the darkest 
 
 ## Flag
 
-`flag{...}`
+`OmniCTF{https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/u/Maaasquerade/posts}`
